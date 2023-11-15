@@ -1,2 +1,2 @@
 # new-project
-project github repository.
+My project github repository.
